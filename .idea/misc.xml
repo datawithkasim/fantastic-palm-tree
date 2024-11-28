@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="customer_insights_dashboard" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (customer_insights_dashboard)" project-jdk-type="Python SDK" />
 </project>

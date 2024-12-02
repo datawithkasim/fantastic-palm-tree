@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35a4e815-f675-4757-a40c-2f0175ca14be" name="Changes" comment="updated dependencies and merged latest changes from kasim-pf">
+    <list default="true" id="35a4e815-f675-4757-a40c-2f0175ca14be" name="Changes" comment="update dependencies and prereq">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fantastic_palm_tree/dash-app.py" beforeDir="false" afterPath="$PROJECT_DIR$/fantastic_palm_tree/dash-app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fantastic_palm_tree/import_eda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fantastic_palm_tree/import_eda.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733178202882</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update dependencies and prereq">
+      <option name="closed" value="true" />
+      <created>1733178722619</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733178722619</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,7 +165,8 @@
     <MESSAGE value="second commit exc data, can be downloaded via authenticate." />
     <MESSAGE value="use of poetry and build package" />
     <MESSAGE value="updated dependencies and merged latest changes from kasim-pf" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated dependencies and merged latest changes from kasim-pf" />
+    <MESSAGE value="update dependencies and prereq" />
+    <option name="LAST_COMMIT_MESSAGE" value="update dependencies and prereq" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/fantastic_palm_tree$dash_app.coverage" NAME="dash-app Coverage Results" MODIFIED="1733178349717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fantastic_palm_tree" />

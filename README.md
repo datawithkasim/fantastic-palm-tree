@@ -11,10 +11,6 @@ Welcome to the **Data Science Portfolio** project repository! This repository co
    - [Phase 2: Advanced Machine Learning Projects](#phase-2-advanced-machine-learning-projects)
    - [Phase 3: Advanced Topics and Portfolio Building](#phase-3-advanced-topics-and-portfolio-building)
 4. [Getting Started](#getting-started)
-5. [Folder Structure](#folder-structure)
-6. [Deployment](#deployment)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ---
 
@@ -61,4 +57,4 @@ The main goal is to build a portfolio of deployable projects showcasing proficie
 1. Check requirements.txt
 2. Run the following
    ```bash
-   pip install -r requirements.txt
+   poetry build

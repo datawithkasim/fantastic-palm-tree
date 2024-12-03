@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35a4e815-f675-4757-a40c-2f0175ca14be" name="Changes" comment="basic eda">
+    <list default="true" id="35a4e815-f675-4757-a40c-2f0175ca14be" name="Changes" comment="further EDA">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fantastic_palm_tree/import_eda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fantastic_palm_tree/import_eda.ipynb" afterDir="false" />
     </list>
@@ -102,7 +102,7 @@
       <workItem from="1732824746008" duration="2332000" />
       <workItem from="1732827235487" duration="3830000" />
       <workItem from="1732831820163" duration="3942000" />
-      <workItem from="1733264336769" duration="2146000" />
+      <workItem from="1733264336769" duration="3006000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -152,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733183147131</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="further EDA">
+      <option name="closed" value="true" />
+      <created>1733267011129</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733267011129</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,7 +184,8 @@
     <MESSAGE value="updated dependencies and merged latest changes from kasim-pf" />
     <MESSAGE value="update dependencies and prereq" />
     <MESSAGE value="basic eda" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic eda" />
+    <MESSAGE value="further EDA" />
+    <option name="LAST_COMMIT_MESSAGE" value="further EDA" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/fantastic_palm_tree$dash_app.coverage" NAME="dash-app Coverage Results" MODIFIED="1733178349717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fantastic_palm_tree" />
